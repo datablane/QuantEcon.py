@@ -11,6 +11,8 @@ from math import sqrt
 import numpy as np
 from scipy.special import binom, beta
 
+print("test")
+
 
 class BetaBinomial:
     """
